@@ -8,6 +8,7 @@ How To Use
 3. run command : ***composer install***
 4. run command to generate CRUD :
 >***php artisan crud:generate YourCRUDName***
+
 For example :
 >***php artisan crud:generate Animal***
 
